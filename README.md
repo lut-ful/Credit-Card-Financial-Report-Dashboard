@@ -30,7 +30,7 @@ prev_week_revenue = CALCULATE(
             'public cc_detail'[week_num2]=MAX('public cc_detail'[week_num2])-1
         )
     )
-    <br\>
+    <br />
      wow_revenue = DIVIDE(([current_week_revenue]-[prev_week_revenue]),[prev_week_revenue])
 # Dashboards
 ![image](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/da23340a-aa76-48d2-857c-e3b036581ce8)
