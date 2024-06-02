@@ -7,7 +7,7 @@ Ans:
 	
 # Project report
 ## Objective
-        To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively
+        To develop a comprehensive credit card weekly dashboard that provides real-time insights <be>  into key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively
 
 ## Data collection\
         Data was collected from an online open-source platform. 
@@ -31,7 +31,7 @@ Ans:
             )
         )
         wow_revenue = DIVIDE(([current_week_revenue]-[prev_week_revenue]),[prev_week_revenue])\
-
+## Dashboards
 ![image](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/da23340a-aa76-48d2-857c-e3b036581ce8)
 ![image](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/cb2c9d0d-41f8-4cb6-806d-dae290be41ae)
 ![Report_insights](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/deb688d9-b4db-47f0-97ed-fd2938e2647b)
