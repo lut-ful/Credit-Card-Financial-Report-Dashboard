@@ -7,7 +7,7 @@ Ans:
 	
 # Project report
 ## Objective
-        To develop a comprehensive credit card weekly dashboard that provides real-time insights '<br>'  into key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively
+        To develop a comprehensive credit card weekly dashboard that provides real-time insights  into key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively
 
 ## Data collection\
         Data was collected from an online open-source platform. 
