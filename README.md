@@ -27,10 +27,11 @@ prev_week_revenue = CALCULATE(
         sum('public cc_detail'[revenue]),
         FILTER(
             ALL('public cc_detail'),
-            'public cc_detail'[week_num2]=MAX('public cc_detail'[week_num2])-1\
+            'public cc_detail'[week_num2]=MAX('public cc_detail'[week_num2])-1
         )
     )
-     wow_revenue = DIVIDE(([current_week_revenue]-[prev_week_revenue]),[prev_week_revenue])\
+    <br\>
+     wow_revenue = DIVIDE(([current_week_revenue]-[prev_week_revenue]),[prev_week_revenue])
 # Dashboards
 ![image](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/da23340a-aa76-48d2-857c-e3b036581ce8)
 ![image](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/cb2c9d0d-41f8-4cb6-806d-dae290be41ae)
