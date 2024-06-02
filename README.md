@@ -34,6 +34,7 @@ Dax queries
 
 ![image](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/da23340a-aa76-48d2-857c-e3b036581ce8)
 ![image](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/cb2c9d0d-41f8-4cb6-806d-dae290be41ae)
+![Report_insights](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/deb688d9-b4db-47f0-97ed-fd2938e2647b)
 
 Insights in week 53:
         Week on Week change
@@ -49,6 +50,7 @@ Insights in week 53:
                 TX, NY and CA is contributing to 68%
                 Overall Activation rate is 57.5%
                 Overall Delinquent rate is 6.06%
+                
 
 
                 --------------------------------End--------------------------------
