@@ -16,22 +16,23 @@ After that the SQL server was connected to the Power BI. From there it was impor
     If the SQL server data updates then the dashboard updates after refreshing the data in Power BI.
 
 # Dax queries
-current_week_revenue = CALCULATE(
-        SUM('public cc_detail'[revenue]),
-        FILTER(
-            ALL('public cc_detail'),
-            'public cc_detail'[week_num2]=MAX('public cc_detail'[week_num2])
-        )
-    )
-prev_week_revenue = CALCULATE(
-        sum('public cc_detail'[revenue]),
-        FILTER(
-            ALL('public cc_detail'),
-            'public cc_detail'[week_num2]=MAX('public cc_detail'[week_num2])-1
-        )
-    )
+current_week_revenue = CALCULATE(<br />
+        SUM('public cc_detail'[revenue]),<br />
+        FILTER(<br />
+            ALL('public cc_detail'),<br />
+            'public cc_detail'[week_num2]=MAX('public cc_detail'[week_num2])<br />
+        )<br />
+    )<br />
     <br />
-     wow_revenue = DIVIDE(([current_week_revenue]-[prev_week_revenue]),[prev_week_revenue])
+prev_week_revenue = CALCULATE(<br />
+        sum('public cc_detail'[revenue]),<br />
+        FILTER(<br />
+            ALL('public cc_detail'),<br />
+            'public cc_detail'[week_num2]=MAX('public cc_detail'[week_num2])-1<br />
+        )<br />
+    )<br />
+    <br />
+     wow_revenue = DIVIDE(([current_week_revenue]-[prev_week_revenue]),[prev_week_revenue])<br />
 # Dashboards
 ![image](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/da23340a-aa76-48d2-857c-e3b036581ce8)
 ![image](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/cb2c9d0d-41f8-4cb6-806d-dae290be41ae)
