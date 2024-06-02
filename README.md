@@ -1,7 +1,7 @@
 # Credit-Card-Financial-Report-Dashboard
 What did I do in this project?
 Ans:
-        1. Developed interactive dashboards using transaction and customer data from an SQL database, to provide real-time insights.
+	1. Developed interactive dashboards using transaction and customer data from an SQL database, to provide real-time insights.
         2. Streamlined data processing & analysis to monitor key performance metrics and trends
         3. Shared actionable insights with stakeholders based on dashboard findings to support the decision-making process.
 
