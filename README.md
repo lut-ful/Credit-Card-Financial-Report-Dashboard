@@ -39,19 +39,19 @@ prev_week_revenue = CALCULATE(<br />
 ![Report_insights](https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard/assets/108027559/deb688d9-b4db-47f0-97ed-fd2938e2647b)
 
 # Insights in week 53:
-Week on Week change
-            Revenue increase by 28.8%
-            Total Transaction Amount & Volume increased by 35% and 3.4%
-            Customer count increased by 12.8%
-Overview of year to year change
-            Overall revenue 56.5 Million
-            Total interest is 8 Million
-            Total Transaction amount is 45.5 Million
-            Male customers are contributing more in revenue.
-            Blue and Silver Credit Card holders are contributing 93% of overall transaction\
-            TX, NY and CA is contributing to 68%
-            Overall Activation rate is 57.5%
-            Overall Delinquent rate is 6.06%
+## Week on Week change<br />
+Revenue increase by 28.8%<br />
+Total Transaction Amount & Volume increased by 35% and 3.4%<br />
+Customer count increased by 12.8%<br />
+## Overview of year to year change<br />
+Overall revenue 56.5 Million<br />
+Total interest is 8 Million<br />
+Total Transaction amount is 45.5 Million<br />
+Male customers are contributing more in revenue.<br />
+Blue and Silver Credit Card holders are contributing 93% of overall transaction<br />
+TX, NY and CA is contributing to 68%<br />
+Overall Activation rate is 57.5%<br />
+Overall Delinquent rate is 6.06%<br />
 
 # Connect
 linkedin (https://www.linkedin.com/in/mdlutfulkabir/)
