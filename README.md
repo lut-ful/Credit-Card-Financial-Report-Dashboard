@@ -52,6 +52,7 @@ Overall Activation rate is 57.5%<br />
 Overall Delinquent rate is 6.06%<br />
 
 # Connect
-linkedin (https://www.linkedin.com/in/mdlutfulkabir/)
+LinkedIn: [Md Lutful kabir](https://www.linkedin.com/in/mdlutfulkabir/)
+Email: [lutfulkabir1757@gmail.com](lutfulkabir1757@gmail.com)
 
 
