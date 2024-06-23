@@ -51,8 +51,9 @@ TX, NY and CA is contributing to 68%<br />
 Overall Activation rate is 57.5%<br />
 Overall Delinquent rate is 6.06%<br />
 
-# Connect
-LinkedIn: [Md Lutful kabir](https://www.linkedin.com/in/mdlutfulkabir/)
-Email: [lutfulkabir1757@gmail.com](lutfulkabir1757@gmail.com)
+## 📫 Connect
 
+- Email: lutfulkabir1757@gmail.com
+- LinkedIn: [Md. Lutful Kabir](https://www.linkedin.com/in/mdlutfulkabir/)
+- Portfolio: [Md. Lutful Kabir](https://www.datascienceportfol.io/mdlutfulkabir)
 
